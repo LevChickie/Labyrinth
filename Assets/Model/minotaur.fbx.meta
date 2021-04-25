@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: 66c42a38aec326d4495f74839907e9bc
+timeCreated: 1610902612
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature.002
+    100002: Camera
+    100004: Cube.019
+    100006: Head
+    100008: Head_end
+    100010: Light
+    100012: //RootNode
+    100014: Neck
+    100016: TorsoBot
+    100018: TorsoBot.001
+    100020: TorsoBot.002
+    100022: TorsoBot.003
+    100024: TorsoBot.004
+    100026: TorsoBot.004_end
+    100028: TorsoBot.005
+    100030: TorsoBot.006
+    100032: TorsoBot.007
+    100034: TorsoBot.008
+    100036: TorsoBot.009
+    100038: TorsoBot.012
+    100040: TorsoBot.013
+    100042: TorsoBot.014
+    100044: TorsoBot.015
+    100046: TorsoBot.016
+    100048: TorsoBot.017
+    100050: TorsoBot.017_end
+    100052: TorsoBot.018
+    100054: TorsoBot.019
+    100056: TorsoBot.019_end
+    100058: TorsoBotMed
+    100060: TorsoTop
+    100062: TorsoTop.001
+    100064: TorsoTop.001_end
+    100066: TorsoTop.002
+    100068: TorsoTop.003
+    100070: TorsoTop.004
+    100072: TorsoTop.005
+    100074: TorsoTop.006
+    100076: TorsoTop.007
+    100078: TorsoTop.008
+    100080: TorsoTop.009
+    100082: TorsoTop.010
+    100084: TorsoTop.011
+    100086: TorsoTop.011_end
+    100088: TorsoTop.012
+    100090: TorsoTop.013
+    100092: TorsoTop.014
+    100094: TorsoTop.015
+    100096: TorsoTop.015_end
+    100098: TorsoTop.016
+    100100: TorsoTop.017
+    100102: TorsoTop.018
+    100104: TorsoTop.019
+    100106: TorsoTop.019_end
+    100108: TorsoTop.026
+    100110: TorsoTop.030
+    100112: TorsoTop.034
+    100114: TorsoTop.038
+    100116: TorsoTop.038_end
+    100118: TorsoTop.046
+    100120: TorsoTop.047
+    100122: TorsoTop.048
+    100124: TorsoTop.049
+    100126: TorsoTop.050
+    100128: TorsoTop.051
+    100130: TorsoTop.052
+    100132: TorsoTop.053
+    100134: TorsoTop.054
+    100136: TorsoTop.054_end
+    100138: TorsoTop.055
+    100140: TorsoTop.055_end
+    100142: TorsoTop.056
+    100144: TorsoTop.056_end
+    100146: TorsoTop.057
+    100148: TorsoTop.057_end
+    100150: TorsoTop.058
+    100152: TorsoTop.059
+    100154: TorsoTop.060
+    100156: TorsoTop.060_end
+    100158: TorsoTop.061
+    100160: TorsoTop.062
+    100162: TorsoTop.063
+    100164: TorsoTop.064
+    100166: TorsoTop.064_end
+    100168: TorsoTop.065
+    100170: TorsoTop.066
+    100172: TorsoTop.067
+    100174: TorsoTop.068
+    100176: TorsoTop.068_end
+    100178: TorsoTop.069
+    100180: TorsoTop.070
+    100182: TorsoTop.071
+    100184: TorsoTop.072
+    100186: TorsoTop.072_end
+    100188: TorsoTop.073
+    100190: TorsoTop.074
+    100192: TorsoTop.075
+    100194: TorsoTop.076
+    100196: TorsoTop.076_end
+    100198: TorsoTopMed
+    400000: Armature.002
+    400002: Camera
+    400004: Cube.019
+    400006: Head
+    400008: Head_end
+    400010: Light
+    400012: //RootNode
+    400014: Neck
+    400016: TorsoBot
+    400018: TorsoBot.001
+    400020: TorsoBot.002
+    400022: TorsoBot.003
+    400024: TorsoBot.004
+    400026: TorsoBot.004_end
+    400028: TorsoBot.005
+    400030: TorsoBot.006
+    400032: TorsoBot.007
+    400034: TorsoBot.008
+    400036: TorsoBot.009
+    400038: TorsoBot.012
+    400040: TorsoBot.013
+    400042: TorsoBot.014
+    400044: TorsoBot.015
+    400046: TorsoBot.016
+    400048: TorsoBot.017
+    400050: TorsoBot.017_end
+    400052: TorsoBot.018
+    400054: TorsoBot.019
+    400056: TorsoBot.019_end
+    400058: TorsoBotMed
+    400060: TorsoTop
+    400062: TorsoTop.001
+    400064: TorsoTop.001_end
+    400066: TorsoTop.002
+    400068: TorsoTop.003
+    400070: TorsoTop.004
+    400072: TorsoTop.005
+    400074: TorsoTop.006
+    400076: TorsoTop.007
+    400078: TorsoTop.008
+    400080: TorsoTop.009
+    400082: TorsoTop.010
+    400084: TorsoTop.011
+    400086: TorsoTop.011_end
+    400088: TorsoTop.012
+    400090: TorsoTop.013
+    400092: TorsoTop.014
+    400094: TorsoTop.015
+    400096: TorsoTop.015_end
+    400098: TorsoTop.016
+    400100: TorsoTop.017
+    400102: TorsoTop.018
+    400104: TorsoTop.019
+    400106: TorsoTop.019_end
+    400108: TorsoTop.026
+    400110: TorsoTop.030
+    400112: TorsoTop.034
+    400114: TorsoTop.038
+    400116: TorsoTop.038_end
+    400118: TorsoTop.046
+    400120: TorsoTop.047
+    400122: TorsoTop.048
+    400124: TorsoTop.049
+    400126: TorsoTop.050
+    400128: TorsoTop.051
+    400130: TorsoTop.052
+    400132: TorsoTop.053
+    400134: TorsoTop.054
+    400136: TorsoTop.054_end
+    400138: TorsoTop.055
+    400140: TorsoTop.055_end
+    400142: TorsoTop.056
+    400144: TorsoTop.056_end
+    400146: TorsoTop.057
+    400148: TorsoTop.057_end
+    400150: TorsoTop.058
+    400152: TorsoTop.059
+    400154: TorsoTop.060
+    400156: TorsoTop.060_end
+    400158: TorsoTop.061
+    400160: TorsoTop.062
+    400162: TorsoTop.063
+    400164: TorsoTop.064
+    400166: TorsoTop.064_end
+    400168: TorsoTop.065
+    400170: TorsoTop.066
+    400172: TorsoTop.067
+    400174: TorsoTop.068
+    400176: TorsoTop.068_end
+    400178: TorsoTop.069
+    400180: TorsoTop.070
+    400182: TorsoTop.071
+    400184: TorsoTop.072
+    400186: TorsoTop.072_end
+    400188: TorsoTop.073
+    400190: TorsoTop.074
+    400192: TorsoTop.075
+    400194: TorsoTop.076
+    400196: TorsoTop.076_end
+    400198: TorsoTopMed
+    4300000: Cube.019
+    7400000: Armature.002|ArmatureAction.002
+    7400002: Armature.002|Walk
+    7400004: Armature.002|Walk0
+    9500000: //RootNode
+    13700000: Cube.019
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.002|Walk0
+      takeName: Armature.002|Walk
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.002
+        weight: 1
+      - path: Armature.002/TorsoBot
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/Neck
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/Neck/Head
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/Neck/Head/Head_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.001
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.001/TorsoTop.001_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009/TorsoTop.010
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009/TorsoTop.010/TorsoTop.011
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009/TorsoTop.010/TorsoTop.011/TorsoTop.011_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013/TorsoTop.014
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013/TorsoTop.014/TorsoTop.015
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013/TorsoTop.014/TorsoTop.015/TorsoTop.015_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017/TorsoTop.018
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017/TorsoTop.018/TorsoTop.019
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017/TorsoTop.018/TorsoTop.019/TorsoTop.019_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030/TorsoTop.034
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030/TorsoTop.034/TorsoTop.038
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030/TorsoTop.034/TorsoTop.038/TorsoTop.038_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046/TorsoTop.050
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046/TorsoTop.050/TorsoTop.054
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046/TorsoTop.050/TorsoTop.054/TorsoTop.054_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047/TorsoTop.051
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047/TorsoTop.051/TorsoTop.055
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047/TorsoTop.051/TorsoTop.055/TorsoTop.055_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048/TorsoTop.052
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048/TorsoTop.052/TorsoTop.056
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048/TorsoTop.052/TorsoTop.056/TorsoTop.056_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049/TorsoTop.053
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049/TorsoTop.053/TorsoTop.057
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049/TorsoTop.053/TorsoTop.057/TorsoTop.057_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058/TorsoTop.059
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058/TorsoTop.059/TorsoTop.060
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058/TorsoTop.059/TorsoTop.060/TorsoTop.060_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062/TorsoTop.063
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062/TorsoTop.063/TorsoTop.064
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062/TorsoTop.063/TorsoTop.064/TorsoTop.064_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066/TorsoTop.067
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066/TorsoTop.067/TorsoTop.068
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066/TorsoTop.067/TorsoTop.068/TorsoTop.068_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070/TorsoTop.071
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070/TorsoTop.071/TorsoTop.072
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070/TorsoTop.071/TorsoTop.072/TorsoTop.072_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074/TorsoTop.075
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074/TorsoTop.075/TorsoTop.076
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074/TorsoTop.075/TorsoTop.076/TorsoTop.076_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006/TorsoBot.005
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006/TorsoBot.005/TorsoBot.004
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006/TorsoBot.005/TorsoBot.004/TorsoBot.004_end
+        weight: 1
+      - path: Armature.002/TorsoBot.008
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015/TorsoBot.016
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015/TorsoBot.016/TorsoBot.017
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015/TorsoBot.016/TorsoBot.017/TorsoBot.017_end
+        weight: 1
+      - path: Armature.002/TorsoBot.009
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014/TorsoBot.018
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014/TorsoBot.018/TorsoBot.019
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014/TorsoBot.018/TorsoBot.019/TorsoBot.019_end
+        weight: 1
+      - path: Cube.019
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.002|Walk
+      takeName: Armature.002|Walk
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.002
+        weight: 1
+      - path: Armature.002/TorsoBot
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/Neck
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/Neck/Head
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/Neck/Head/Head_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.001
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.001/TorsoTop.001_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009/TorsoTop.010
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009/TorsoTop.010/TorsoTop.011
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.008/TorsoTop.009/TorsoTop.010/TorsoTop.011/TorsoTop.011_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013/TorsoTop.014
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013/TorsoTop.014/TorsoTop.015
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.012/TorsoTop.013/TorsoTop.014/TorsoTop.015/TorsoTop.015_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017/TorsoTop.018
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017/TorsoTop.018/TorsoTop.019
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.016/TorsoTop.017/TorsoTop.018/TorsoTop.019/TorsoTop.019_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030/TorsoTop.034
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030/TorsoTop.034/TorsoTop.038
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.026/TorsoTop.030/TorsoTop.034/TorsoTop.038/TorsoTop.038_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046/TorsoTop.050
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046/TorsoTop.050/TorsoTop.054
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.046/TorsoTop.050/TorsoTop.054/TorsoTop.054_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047/TorsoTop.051
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047/TorsoTop.051/TorsoTop.055
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.047/TorsoTop.051/TorsoTop.055/TorsoTop.055_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048/TorsoTop.052
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048/TorsoTop.052/TorsoTop.056
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.048/TorsoTop.052/TorsoTop.056/TorsoTop.056_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049/TorsoTop.053
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049/TorsoTop.053/TorsoTop.057
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.002/TorsoTop.004/TorsoTop.006/TorsoTop.049/TorsoTop.053/TorsoTop.057/TorsoTop.057_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058/TorsoTop.059
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058/TorsoTop.059/TorsoTop.060
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.058/TorsoTop.059/TorsoTop.060/TorsoTop.060_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062/TorsoTop.063
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062/TorsoTop.063/TorsoTop.064
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.061/TorsoTop.062/TorsoTop.063/TorsoTop.064/TorsoTop.064_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066/TorsoTop.067
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066/TorsoTop.067/TorsoTop.068
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.065/TorsoTop.066/TorsoTop.067/TorsoTop.068/TorsoTop.068_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070/TorsoTop.071
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070/TorsoTop.071/TorsoTop.072
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.069/TorsoTop.070/TorsoTop.071/TorsoTop.072/TorsoTop.072_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074/TorsoTop.075
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074/TorsoTop.075/TorsoTop.076
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.001/TorsoBotMed/TorsoTopMed/TorsoTop/TorsoTop.003/TorsoTop.005/TorsoTop.007/TorsoTop.073/TorsoTop.074/TorsoTop.075/TorsoTop.076/TorsoTop.076_end
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006/TorsoBot.005
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006/TorsoBot.005/TorsoBot.004
+        weight: 1
+      - path: Armature.002/TorsoBot/TorsoBot.002/TorsoBot.003/TorsoBot.007/TorsoBot.006/TorsoBot.005/TorsoBot.004/TorsoBot.004_end
+        weight: 1
+      - path: Armature.002/TorsoBot.008
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015/TorsoBot.016
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015/TorsoBot.016/TorsoBot.017
+        weight: 1
+      - path: Armature.002/TorsoBot.008/TorsoBot.012/TorsoBot.015/TorsoBot.016/TorsoBot.017/TorsoBot.017_end
+        weight: 1
+      - path: Armature.002/TorsoBot.009
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014/TorsoBot.018
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014/TorsoBot.018/TorsoBot.019
+        weight: 1
+      - path: Armature.002/TorsoBot.009/TorsoBot.013/TorsoBot.014/TorsoBot.018/TorsoBot.019/TorsoBot.019_end
+        weight: 1
+      - path: Cube.019
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
